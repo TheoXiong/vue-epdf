@@ -99,9 +99,7 @@ module.exports = {
     hints: false
   },
   devtool: '#eval-source-map',
-  node: {
-    fs: 'empty'
-  }
+  externals: ['fs', 'url', 'process']
 }
 
 if (process.env.NODE_ENV === 'production') {

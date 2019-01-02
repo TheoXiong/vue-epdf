@@ -1,7 +1,7 @@
 {
   "name": "vue-epdf",
   "description": "A vue component that provide functions for preview and download PDF file with Electron",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": "TheoXiong",
   "license": "MIT",
   "main": "dist/vue-epdf.min.js",

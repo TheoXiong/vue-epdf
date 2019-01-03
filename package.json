@@ -10,7 +10,7 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
-    "dl-easy": "^1.0.1",
+    "dl-easy": "^1.0.2",
     "epdf-view": "^1.0.8"
   },
   "browserslist": [

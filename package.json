@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "dl-easy": "^1.0.1",
-    "epdf-view": "^1.0.7"
+    "epdf-view": "^1.0.8"
   },
   "browserslist": [
     "> 1%",
